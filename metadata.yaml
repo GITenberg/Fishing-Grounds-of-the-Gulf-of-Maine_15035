@@ -1,0 +1,25 @@
+_repo: Fishing-Grounds-of-the-Gulf-of-Maine_15035
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rich, Walter H. (Walter Herbert)
+    birthdate: 1866
+    gutenberg_agent_id: '5808'
+    url: http://www.gutenberg.org/2009/agents/5808
+description: ''
+gutenberg_issued: '2005-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcsh 'Fisheries -- Maine, Gulf of'
+title: Fishing Grounds of the Gulf of Maine
+url: http://www.gutenberg.org/ebooks/15035
